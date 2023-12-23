@@ -1,5 +1,5 @@
 # React + Vite
-
+เป็นการนำไฟล์ template html แปลงเป็นน react
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
